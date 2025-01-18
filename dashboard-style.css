@@ -416,6 +416,8 @@ body:last-child {
   margin: 0 3rem;
   font-family: 'Instrument Sans';
   font-size: 1.2rem;
+  text-align: start;
+  width: 90%;
 }
 
 .alert-div button {
